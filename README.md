@@ -4,10 +4,10 @@ El Recetario Virtual es una aplicación web diseñada para que los usuarios pued
 
 ## Características Principales:
 
-**Exploración de Recetas:** Los usuarios pueden navegar por una extensa colección de recetas organizadas por categorías, ingredientes o tipo de plato.
-**Creación de Comentarios:** Los usuarios pueden dejar sus opiniones y comentarios sobre las recetas que han probado, compartiendo sus experiencias culinarias con la comunidad.
-**Filtrado de Recetas:** Se ofrece la posibilidad de filtrar las recetas según diversos criterios, como tipo de cocina, tiempo de preparación o nivel de dificultad, para encontrar fácilmente la receta deseada.
-**Contacto con el Restaurante:** Los usuarios pueden acceder a la información de contacto del restaurante responsable del recetario, facilitando la comunicación para realizar consultas, reservas o sugerencias.
+- **Exploración de Recetas:** Los usuarios pueden navegar por una extensa colección de recetas organizadas por categorías, ingredientes o tipo de plato.
+- **Creación de Comentarios:** Los usuarios pueden dejar sus opiniones y comentarios sobre las recetas que han probado, compartiendo sus experiencias culinarias con la comunidad.
+- **Filtrado de Recetas:** Se ofrece la posibilidad de filtrar las recetas según diversos criterios, como tipo de cocina, tiempo de preparación o nivel de dificultad, para encontrar fácilmente la receta deseada.
+- **Contacto con el Restaurante:** Los usuarios pueden acceder a la información de contacto del restaurante responsable del recetario, facilitando la comunicación para realizar consultas, reservas o sugerencias.
 
 ## Instalación
 
