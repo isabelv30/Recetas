@@ -26,7 +26,7 @@ const RecipeDashboard: React.FC = () => {
     //setRecetasFiltro(recetas);
     const fetchData = async () => {
       try {
-        debugger
+        //debugger
         const response = await fetch('http://localhost:4000/recetas');
         if (!response.ok) {
           throw new Error('Error al obtener los datos');
