@@ -2,6 +2,8 @@
 
 El Recetario Virtual es una aplicación web diseñada para que los usuarios puedan explorar una amplia variedad de recetas, dejar comentarios sobre las mismas y ponerse en contacto con el restaurante responsable. Con una interfaz intuitiva y amigable, esta aplicación ofrece una experiencia única para los amantes de la cocina.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1d87c331-cc63-4e61-8eeb-713a2cecba93/deploy-status)](https://app.netlify.com/projects/by-isabella-cookbook/deploys)
+
 ## Características Principales:
 
 - **Exploración de Recetas:** Los usuarios pueden navegar por una extensa colección de recetas organizadas por categorías, ingredientes o tipo de plato.
